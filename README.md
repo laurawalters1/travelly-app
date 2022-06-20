@@ -10,8 +10,12 @@ Travelly acts as a social media and advertising platform, providing gap-year sty
 
 As a user, the homepage and latest trips can be browsed without creating an account. In order to interact with trips, access group chats, save and earn badges based on your travels, and view trips recommended especially for you, you will need to create an account with us.
 As a travel company, in order to sign up, you should head to the [Company Dashboard](https://gentle-lowlands-70428.herokuapp.com/#/companydashboard), here you can signup and create trips that will be advertised on Travelly for users to interact with, you can choose to provide a list of countries which the trip visits, which will enable users to earn badges by attending you trips. Additionally, an associated group chat will be created for each trip you add, which will allow users who have joined the trip to chat and get to know each other before travelling.
+<br>
+<br>
 To view an existing company account, please use the below login details:
+<br>
 Email: admin@wetravel.com
+<br>
 Password: password
 
 ## Contributors
